@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Velasco</h1>
-<h3 align="center">A full stack junior dev from Ecuador</h3>
+<h3 align="center">A Full-Stack Junior Developer from Ecuador</h3>
 
 - 🌱 I’m currently learning **Angular, React, Vue, NodeJS, Express, Spring Boot**
 
